@@ -15,6 +15,16 @@ Prebuilt binary artifacts consumed by the Goggles build workflow are published f
 | wlroots | `wlroots-<version>` | `wlroots-<version>.tar.xz` |
 | i686 sysroot | `sysroot-i686-<version>` | `sysroot-i686-<version>.tar.xz` |
 
+## Published Releases
+
+- <https://github.com/goggles-dev/goggles-artifacts/releases>
+
+Current tags:
+
+- `wlroots-0.19.2`
+- `wlroots-0.18.3`
+- `sysroot-i686-2.31.0`
+
 ## Consumer Repository
 
 Main project: <https://github.com/goggles-dev/Goggles>
